@@ -1,0 +1,11 @@
+h4{
+    color: brown;
+    background-color: rgb(140, 255, 0);
+    font-weight: 900;
+}
+div{
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+}
